@@ -10,33 +10,33 @@ Proyek akhir ini merupakan pengujian otomatis menggunakan **Cypress** pada websi
 ## 📁 Struktur Folder
 cypress/
 ├── e2e/
-│ ├── login.cy.js
-│ ├── forgotPassword.cy.js
-│ └── dashboard.cy.js
+│   ├── login.cy.js
+│   ├── forgotPassword.cy.js
+│   └── dashboard.cy.js
 ├── support/
-│ ├── commands.js
-│ ├── e2e.js
-│ └── pageObjects/
-│ ├── LoginPage.js
-│ ├── ForgotPasswordPage.js
-│ └── DashboardPage.js
+│   ├── commands.js
+│   └── e2e.js
+└── pageObjects/
+    ├── LoginPage.js
+    ├── ForgotPasswordPage.js
+    └── DashboardPage.js
 
 
 ## 🚀 Cara Menjalankan
 
 1. Clone repositori:
-https://github.com/IndraW02/ProjectAutomationTestingSanbercode.git
+  https://github.com/IndraW02/ProjectAutomationTestingSanbercode.git
 
 2. Install dependencies:
-npm install
+  npm install
 
 3. Jalankan Cypress:
 
-npx cypress open
+  npx cypress open
 
-Atau untuk headless:
+  Atau untuk headless:
 
-npx cypress run
+  npx cypress run
 
 
 🛠 Tools & Teknologi
@@ -50,7 +50,7 @@ npx cypress run
 4. Intercept (cy.intercept)
 
 5. OrangeHRM Demo Site
-6. 
+   
 
 📌 Catatan
 Website target: https://opensource-demo.orangehrmlive.com/
