@@ -21,34 +21,23 @@ cypress/
 │ ├── ForgotPasswordPage.js
 │ └── DashboardPage.js
 
-bash
-Copy
-Edit
 
 ## 🚀 Cara Menjalankan
 
 1. Clone repositori:
-   ```bash
-   git clone https://github.com/username/orangehrm-automation.git
-   cd orangehrm-automation
-Install dependencies:
+https://github.com/IndraW02/ProjectAutomationTestingSanbercode.git
 
-bash
-Copy
-Edit
+Install dependencies:
 npm install
+
 Jalankan Cypress:
 
-bash
-Copy
-Edit
 npx cypress open
+
 Atau untuk headless:
 
-bash
-Copy
-Edit
 npx cypress run
+
 🛠 Tools & Teknologi
 Cypress
 
