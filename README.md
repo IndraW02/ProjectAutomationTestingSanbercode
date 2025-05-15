@@ -27,10 +27,10 @@ cypress/
 1. Clone repositori:
 https://github.com/IndraW02/ProjectAutomationTestingSanbercode.git
 
-Install dependencies:
+2. Install dependencies:
 npm install
 
-Jalankan Cypress:
+3. Jalankan Cypress:
 
 npx cypress open
 
@@ -38,21 +38,25 @@ Atau untuk headless:
 
 npx cypress run
 
+
 🛠 Tools & Teknologi
-Cypress
 
-JavaScript
+1. Cypress
 
-Page Object Model (POM)
+2. JavaScript
 
-Intercept (cy.intercept)
+3. Page Object Model (POM)
 
-OrangeHRM Demo Site
+4. Intercept (cy.intercept)
+
+5. OrangeHRM Demo Site
+6. 
 
 📌 Catatan
 Website target: https://opensource-demo.orangehrmlive.com/
 
 Tes akan menunggu elemen tertentu sebagai verifikasi keberhasilan login/dashboard.
+
 
 👨‍💻 Kontributor
 
