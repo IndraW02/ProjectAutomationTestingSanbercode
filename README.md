@@ -55,6 +55,5 @@ Website target: https://opensource-demo.orangehrmlive.com/
 Tes akan menunggu elemen tertentu sebagai verifikasi keberhasilan login/dashboard.
 
 👨‍💻 Kontributor
-Nama: Indra
 
 Email: iwirawan54@gmail.com
