@@ -57,4 +57,4 @@ Tes akan menunggu elemen tertentu sebagai verifikasi keberhasilan login/dashboar
 👨‍💻 Kontributor
 Nama: Indra
 
-Email: [opsional diisi jika diperlukan]
+Email: iwirawan54@gmail.com
