@@ -31,12 +31,11 @@ cypress/
   npm install
 
 3. Jalankan Cypress:
-
-  npx cypress open
-
-  Atau untuk headless:
-
-  npx cypress run
+   
+    npx cypress open
+   
+    Atau untuk headless:
+    npx cypress run
 
 
 🛠 Tools & Teknologi
