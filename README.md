@@ -22,6 +22,7 @@ cypress/
     └── DashboardPage.js
 
 
+
 ## 🚀 Cara Menjalankan
 
 1. Clone repositori:
@@ -38,7 +39,7 @@ cypress/
     npx cypress run
 
 
-🛠 Tools & Teknologi
+## 🛠 Tools & Teknologi
 
 1. Cypress
 
@@ -51,12 +52,12 @@ cypress/
 5. OrangeHRM Demo Site
    
 
-📌 Catatan
+## 📌 Catatan
 Website target: https://opensource-demo.orangehrmlive.com/
 
 Tes akan menunggu elemen tertentu sebagai verifikasi keberhasilan login/dashboard.
 
 
-👨‍💻 Kontributor
+## 👨‍💻 Kontributor
 
 Email: iwirawan54@gmail.com
