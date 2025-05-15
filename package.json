@@ -1,0 +1,25 @@
+{
+  "name": "projectautomationtestingsanbercode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IndraW02/ProjectAutomationTestingSanbercode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IndraW02/ProjectAutomationTestingSanbercode/issues"
+  },
+  "homepage": "https://github.com/IndraW02/ProjectAutomationTestingSanbercode#readme",
+  "devDependencies": {
+    "cypress": "^14.3.3"
+  }
+}
